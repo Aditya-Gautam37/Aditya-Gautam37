@@ -9,7 +9,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:1B1035&height=200&section=header" width="100%"/>
 
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Aditya-Gautam37/Aditya-Gautam37/main/assets/profile.jpg&w=180&h=180&fit=cover&mask=circle&maxage=7d" width="140" height="140" alt="Aditya Gautam"/>
+<img src="https://raw.githubusercontent.com/Aditya-Gautam37/Aditya-Gautam37/main/assets/avatar.svg" width="150" height="150" alt="Aditya Gautam"/>
 
 ### Aditya Gautam
 
@@ -81,28 +81,9 @@ The 5-model fallback chain in Material Checker and the multiprocessing rewrite i
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,cpp,java,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp,java,mysql,tensorflow,pytorch,sklearn,flask,nextjs,git,docker,vercel&theme=dark" />
 
-**AI / ML / Deep Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-<br/>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**GenAI / NLP**
-<br/>
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6C63FF?style=flat-square&logoColor=white)
-
-**Backend, Tools & Deployment**
-<br/>
-<img src="https://skillicons.dev/icons?i=flask,nextjs,git,docker,vercel&theme=dark" />
+<sub>+ LangChain · OpenAI API · Gemini API · spaCy · ChromaDB · Pandas · NumPy</sub>
 
 </div>
 

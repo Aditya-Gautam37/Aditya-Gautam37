@@ -13,13 +13,13 @@
 
 ### Aditya Gautam
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+Engineer;Building+Production-Grade+AI+Systems;Munshi+%E2%80%A2+Material+Checker+%E2%80%A2+Resume+Screener;Learning+by+Shipping%2C+Not+by+Certificate" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=3FA7D6&center=true&vCenter=true&width=560&lines=AI+Engineer;Building+Production-Grade+AI+Systems;Munshi+%E2%80%A2+Material+Checker+%E2%80%A2+Resume+Screener;Learning+by+Shipping%2C+Not+by+Certificate" alt="typing animation" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0D1117)](mailto:gautam371202@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0D1117)](https://www.linkedin.com/in/aditya-gautam-4700ab309)
-[![Resume](https://img.shields.io/badge/Resume-Download-0D1117?style=for-the-badge&logo=readdotcv&logoColor=22D3EE&labelColor=0D1117)](https://raw.githubusercontent.com/Aditya-Gautam37/Aditya-Gautam37/main/assets/Aditya_Gautam_Resume.pdf)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=3FA7D6&labelColor=0D1117)](mailto:gautam371202@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=3FA7D6&labelColor=0D1117)](https://www.linkedin.com/in/aditya-gautam-4700ab309)
+[![Resume](https://img.shields.io/badge/Resume-Download-0D1117?style=for-the-badge&logo=readdotcv&logoColor=3FA7D6&labelColor=0D1117)](https://raw.githubusercontent.com/Aditya-Gautam37/Aditya-Gautam37/main/assets/Aditya_Gautam_Resume.pdf)
 
 <sub>alt. email: singhaditya28255@gmail.com</sub>
 
@@ -144,12 +144,12 @@ This project is the proof that I can take an LLM feature from "works in a demo" 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditya-Gautam37&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Gautam37&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditya-Gautam37&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FA7D6&icon_color=D98C5A&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Gautam37&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FA7D6&text_color=C9D1D9" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Gautam37&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Gautam37&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FA7D6&fire=D98C5A&currStreakLabel=3FA7D6" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Gautam37&theme=github-compact&hide_border=true&bg_color=0D1117&color=22D3EE&line=A78BFA&point=C9D1D9" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Gautam37&theme=github-compact&hide_border=true&bg_color=0D1117&color=3FA7D6&line=D98C5A&point=C9D1D9" width="100%"/>
 
 </div>
 

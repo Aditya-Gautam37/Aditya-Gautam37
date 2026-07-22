@@ -3,12 +3,18 @@
     <clipPath id="circleClip">
       <circle cx="120" cy="120" r="92"/>
     </clipPath>
+    <radialGradient id="bgGlow" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#161B33"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </radialGradient>
     <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#58A6FF"/>
       <stop offset="50%" stop-color="#A78BFA"/>
       <stop offset="100%" stop-color="#22D3EE"/>
     </linearGradient>
   </defs>
+
+  <rect x="0" y="0" width="240" height="240" rx="24" fill="url(#bgGlow)"/>
 
   <circle cx="120" cy="120" r="110" fill="none" stroke="url(#ringGrad)" stroke-width="3" opacity="0.35"/>
 

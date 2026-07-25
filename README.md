@@ -7,7 +7,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:1B1035&height=200&section=header" width="100%"/>
+<a href="https://aditya-gautam37.github.io"><img src="https://raw.githubusercontent.com/Aditya-Gautam37/Aditya-Gautam37/main/assets/banner.svg" width="100%" alt="AI Engineer"/></a>
+
+[![Live Portfolio](https://img.shields.io/badge/●_LIVE_PORTFOLIO-aditya--gautam37.github.io-0D1117?style=for-the-badge&labelColor=10B981&color=0D1117)](https://aditya-gautam37.github.io)
 
 <img src="https://raw.githubusercontent.com/Aditya-Gautam37/Aditya-Gautam37/main/assets/avatar.svg" width="150" height="150" alt="Aditya Gautam"/>
 
@@ -17,6 +19,7 @@
 
 <br/>
 
+[![Live Site](https://img.shields.io/badge/Live_Site-Visit-0D1117?style=for-the-badge&logo=vercel&logoColor=10B981&labelColor=0D1117)](https://aditya-gautam37.github.io)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=3FA7D6&labelColor=0D1117)](mailto:gautam371202@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=3FA7D6&labelColor=0D1117)](https://www.linkedin.com/in/aditya-gautam-4700ab309)
 [![Resume](https://img.shields.io/badge/Resume-Download-0D1117?style=for-the-badge&logo=readdotcv&logoColor=3FA7D6&labelColor=0D1117)](https://raw.githubusercontent.com/Aditya-Gautam37/Aditya-Gautam37/main/assets/Aditya_Gautam_Resume.pdf)

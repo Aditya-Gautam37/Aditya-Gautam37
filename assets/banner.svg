@@ -1,0 +1,66 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0F1524"/>
+      <stop offset="100%" stop-color="#0A0D14"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3FA7D6"/>
+      <stop offset="35%" stop-color="#7FE9E0"/>
+      <stop offset="65%" stop-color="#E8C48C"/>
+      <stop offset="100%" stop-color="#D98C5A"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-0.6 0; 0.6 0; -0.6 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="vig" cx="50%" cy="50%" r="70%">
+      <stop offset="60%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.55"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#3FA7D6" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="panelClip"><rect x="8" y="8" width="884" height="184" rx="18"/></clipPath>
+  </defs>
+
+  <rect x="8" y="8" width="884" height="184" rx="18" fill="url(#panel)"/>
+  <g clip-path="url(#panelClip)">
+    <rect x="8" y="8" width="884" height="184" fill="url(#grid)"/>
+    <!-- sweeping scan line -->
+    <rect x="0" y="8" width="120" height="184" fill="#3FA7D6" opacity="0.06">
+      <animate attributeName="x" values="-120;900" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="8" y="8" width="884" height="184" fill="url(#vig)"/>
+  </g>
+  <rect x="8" y="8" width="884" height="184" rx="18" fill="none" stroke="#22303f" stroke-width="1"/>
+
+  <!-- corner brackets -->
+  <g stroke="#3FA7D6" stroke-width="2" stroke-opacity="0.7" fill="none">
+    <path d="M40 44 h-16 v16"/>
+    <path d="M860 44 h16 v16"/>
+    <path d="M40 156 h-16 v-16"/>
+    <path d="M860 156 h16 v-16"/>
+  </g>
+
+  <!-- glow copy -->
+  <text x="450" y="104" text-anchor="middle" filter="url(#glow)"
+    font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="72" font-weight="bold"
+    letter-spacing="14" fill="#3FA7D6" opacity="0.35">AI ENGINEER</text>
+  <!-- main text -->
+  <text x="450" y="104" text-anchor="middle"
+    font-family="'Trebuchet MS','Segoe UI',Verdana,sans-serif" font-size="72" font-weight="bold"
+    letter-spacing="14" fill="url(#txt)">AI ENGINEER
+    <animate attributeName="opacity" values="1;0.86;1;0.94;1" dur="3.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- subline with blinking cursor -->
+  <text x="450" y="150" text-anchor="middle"
+    font-family="'Consolas','Courier New',monospace" font-size="17" letter-spacing="3" fill="#8b98a8">
+    &#47;&#47; building production-grade AI systems</text>
+  <rect x="726" y="138" width="9" height="16" fill="#7FE9E0">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
